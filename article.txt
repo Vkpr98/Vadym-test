@@ -55,4 +55,4 @@ git commit -m "Hello uses style.css"
 git add index.html
 git commit -m "Updated index.html"
 05Далее
-Теперь у нас есть новая ветка под названием style с 3 новыми коммитами. Далее мы узнаем, как осуществлять навигацию и переключаться между ветками.
+Теперь у нас
